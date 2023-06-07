@@ -33,4 +33,16 @@ npm run dev
 php artisan serve
 ```
 
-##Overview
+## Overview
+
+#### Halaman Awal
+Pada halaman awal terdapat indikator untuk melihat jumlah kode pos yang terdapat pada database dan button upload serta button hapus untuk menghapus data pada tabel untuk cek kode pos.
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="500px">
+
+#### Halaman Upload
+Pada halaman upload terdapat terdapat dua card upload untuk mengupload kodepos yang akan di cek serta mengupload database kode yang didapat dari divisi lain. Database kodepos tidak dapat dipertotonkan karena ada yang menjadi rahasia perusahaan. Dan untuk yang ingin menggunakan dapat mengupload database dengan ketentuan kodepos, kelurahan, kecamtana, kabupaten, dan provinsi.
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="500px">
+
+#### Delete Alert
+Peringatan untuk mendelete data fitur direquest dari pekerja yang akan menggunakan agar ada pemberitahuan agar data akan dihapus
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="500px">
