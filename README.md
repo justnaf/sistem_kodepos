@@ -55,8 +55,6 @@ Untuk format yang di upload adalah excel dengan extensi .xls dan harus tersedia 
 
 <img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Format%20Kodepos.png" width="500px">
 
-<img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Format%20Kodepos.png" width="500px">
-
 #### Delete Alert
 Peringatan untuk mendelete data fitur direquest dari pekerja yang akan menggunakan agar ada pemberitahuan agar data akan dihapus
 
