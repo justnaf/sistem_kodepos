@@ -45,6 +45,18 @@ Pada halaman upload terdapat terdapat dua card upload untuk mengupload kodepos y
 
 <img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Halaman%20Upload.png" width="500px">
 
+#### Format Upload Database
+Untuk format yang di upload adalah excel dengan extensi .xls dan harus tersedia coloumn dengan nama paling tidak kodepos, kelurahan, kecamatan, kabupaten, dan provinsi. Format heading harus dituliskan di row pertama pada excel dan dilanjutkan data yang akan di upload.
+
+<img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Format%20Database.png" width="500px">
+
+#### Format Upload Kodepos Yang Akan Di Cek
+Untuk format yang di upload adalah excel dengan extensi .xls dan harus tersedia coloumn dengan nama heading kodepos dituliskan pada row pertama dan dilanjutkan dengan data kode pos yang akan di cek lokasi kelurahan, kecamatan, kabupaten atau provinsinya. (Tampilan pada halaman pertama dibuat sesuai dengan kebutuhan jika Ingin Menggunakan dapat menyesuaikan Sendiri pada `` ./resource/views/index.blade.php``
+
+<img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Format%20Kodepos.png" width="500px">
+
+<img src="https://github.com/justnaf/sistem_kodepos/blob/main/public/overview/Format%20Kodepos.png" width="500px">
+
 #### Delete Alert
 Peringatan untuk mendelete data fitur direquest dari pekerja yang akan menggunakan agar ada pemberitahuan agar data akan dihapus
 
